@@ -1,2 +1,2 @@
 # py_notebooks
-python notebooks
+python notebooks for general tasks
